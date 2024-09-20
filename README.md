@@ -22,7 +22,7 @@ As part of the project the technologies we settled on were:
 Please click the link below to copy the pathway for cloning the project:
 
 ```sh
-   git clone https://github.com/nascho/react-calculator.git
+   git clone https://github.com/nascho/wordle_game.git
 ```
 
 Once cloned please install the PyGame package:
