@@ -19,25 +19,31 @@ As part of the project the technologies we settled on were:
 
 ## Installation & Running Project
 
-Please click the link below to copy the pathway for cloning the project:
+Please click the link below to copy the pathway for cloning the project and paste into your terminal:
 
 ```sh
    git clone https://github.com/nascho/wordle_game.git
 ```
 
-Once cloned please install the PyGame package:
+For Windows, once cloned please install the PyGame package:
 
 ```sh
     pip install pygame
 ```
 
-For Windows in the terminal run the following command to start the game:
+For MacOS, once cloned please install the PyGame package:
+
+```sh
+    pip3 install pygame
+```
+
+For Windows, in the terminal run the following command to start the game:
 
 ```sh
     python main.py
 ```
 
-For MacOS in the terminal run the following command to start the game:
+For MacOS, in the terminal run the following command to start the game:
 
 ```sh
     python3 main.py
