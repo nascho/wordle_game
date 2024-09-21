@@ -49,7 +49,7 @@ For MacOS, in the terminal run the following command to start the game:
     python3 main.py
 ```
 
-When the program starts a model will appear for you to interact with the game.
+When the program starts a window will appear for you to interact with the game.
 
 ## Game Rules
 
