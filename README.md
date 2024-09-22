@@ -1,6 +1,6 @@
 # Wordle Game
 
-![Contributors](https://img.shields.io/github/contributors/nascho/react-calculator?style=plastic) ![Forks](https://img.shields.io/github/forks/nascho/react-calculator) ![Stars](https://img.shields.io/github/stars/nascho/react-calculator) ![Issues](https://img.shields.io/github/issues/nascho/react-calculator)
+![Contributors](https://img.shields.io/github/contributors/nascho/wordle_game?style=plastic) ![Forks](https://img.shields.io/github/forks/nascho/wordle_game) ![Stars](https://img.shields.io/github/stars/nascho/wordle_game) ![Issues](https://img.shields.io/github/issues/nascho/wordle_game)
 
 
 ## Description 
